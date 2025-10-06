@@ -58,6 +58,3 @@ We believe code exploration should feel like a well-equipped expedition:
 - **Issues**: Use GitHub issues for bugs, feature requests, and questions
 - **Discussions**: Use GitHub Discussions for general questions and community chat
 
----
-
-*Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and a well-lit path through the code forest! 🌲✨*
