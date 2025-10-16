@@ -1,8 +1,8 @@
 # Welcome to the team 🙌
 
-## About Montagne.ai 🏔️
+## About Montagne.dev 🏔️
 
-**Montagne.ai** is the organization behind **Lampe** and **Campement** - a suite of developer tools designed to help teams navigate the wilderness of modern codebases through better reviews, actionable insights, and thoughtful automation.
+**Montagne.dev** is the organization behind **Lampe** and **Campement** - a suite of developer tools designed to help teams navigate the wilderness of modern codebases through better reviews, actionable insights, and thoughtful automation.
 
 Our mission is to empower developers to explore their code like a forest expedition, using **Lampe** (🔦) as your torchlight to reveal hidden bugs, confusing code, and opportunities for improvement.
 
@@ -26,8 +26,8 @@ Your basecamp for code understanding and team collaboration. After PRs are revie
 
 ### Documentation
 - **Main Website**: [montagne.dev](https://montagne.dev)
-- **GitHub Repository**: [montagne-dev/lampe-sdk](https://github.com/montagne-dev/lampe-sdk)
-- **Local Documentation of lampe-sdk**: Clone [montagne-dev/lampe-sdk](https://github.com/montagne-dev/lampe-sdk) and run `uv run mkdocs serve`, then visit `http://127.0.0.1:8000/`
+- **GitHub Repository**: [montagne-dev/lampe](https://github.com/montagne-dev/lampe)
+- **Local Documentation of lampe-sdk**: Clone [montagne-dev/lampe](https://github.com/montagne-dev/lampe) and run `uv run mkdocs serve`, then visit `http://127.0.0.1:8000/`
 
 ## Team Culture & Values
 
